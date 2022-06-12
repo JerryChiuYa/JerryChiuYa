@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JerryChiuYa
-- 👀 I’m interested in C#, Python.
+- 👀 I’m interested in C#, Python, Java.
 - 🌱 I’m currently learning .NET MVC, WPF.
 
 
